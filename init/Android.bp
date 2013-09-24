@@ -93,6 +93,7 @@ cc_library_static {
     ],
 }
 
+
 soong_config_module_type {
     name: "libinit_cc_defaults",
     module_type: "cc_defaults",
